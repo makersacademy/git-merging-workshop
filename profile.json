@@ -1,7 +1,8 @@
 {"profiles": [{
     "name": "Lotte",
     "role": "Makers Coach",
-    "likes": "boats"
+    "likes": "boats", 
+    "hobbies": "cooking"
 },
 {
     "name": "another",
