@@ -1,8 +1,14 @@
-{"my_profiles":[{
+{"profiles": [{
     "name": "Lotte",
     "role": "Makers Coach",
-    "likes": "boats",
-    "hobbies": "scheming",
-    "more": "concerns"
+    "likes": "boats", 
+    "hobbies": "cooking",
+    "more" : "and another thing"
 },
-{"thing":"one"}]}
+{
+    "name": "me",
+    "role": "learner",
+    "likes": "coding",
+    "wonderful": "time"
+}]
+}
