@@ -1,5 +1,7 @@
 {
-    "name": "Lotte",
-    "role": "Makers Software Engineering Coach",
-    "likes": "boats"
+    "profiles":[{
+        "name": "Lotte",
+        "role": "Makers Software Engineering Coach",
+        "likes": "boats"
+    }]
 }
