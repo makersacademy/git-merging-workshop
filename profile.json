@@ -1,7 +1,15 @@
 {
     "profiles":[{
-        "name": "Lotte",
+        "name": "Lotte Cutts",
         "role": "Makers Software Engineering Coach",
-        "likes": "boats"
-    }]
+        "likes": "boats",
+        "hobbies": "music",
+        "num_siblings":1
+    },
+    {
+        "name": "Eoin",
+        "role":"Makers Software Engineering Coach",
+        "likes": "movies"
+    }
+]
 }
