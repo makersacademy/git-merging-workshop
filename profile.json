@@ -1,5 +1,14 @@
 {
-    "name": "Lotte Cutts",
-    "role": "Makers Coach",
-    "likes": ["boats", "ducks"]
+    "profiles": [
+        {
+            "name": "Lotte Cutts",
+            "role": "Makers Coach",
+            "likes": ["boats", "ducks"]
+        },
+        {
+            "name": "Eddie",
+            "role": "Makers Curriculum Lead",
+            "likes": "cats"
+        }
+    ]
 }
